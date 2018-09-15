@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="src_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dst_folder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="target_exts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.HTML;.HTM;.CSS;.PHP;.JS</Value>
+    </Setting>
+    <Setting Name="target_replace_word" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.HTML;.HTM;.PHP</Value>
+    </Setting>
+    <Setting Name="replace_words_sjis" Type="System.String" Scope="User">
+      <Value Profile="(Default)">shift_jis</Value>
+    </Setting>
+    <Setting Name="replace_words_utf8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">utf-8</Value>
+    </Setting>
+    <Setting Name="replace_words_eucjp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">euc-jp</Value>
+    </Setting>
+    <Setting Name="form_geometory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="listview_geometory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="replace_word" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
