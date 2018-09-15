@@ -21,3 +21,7 @@ CRLF LF
 
 <開発環境>
 VS2017 community, VB.NET
+
+<主な参考サイト>
+DOBON.NET
+https://dobon.net/vb/dotnet/string/detectcode.html
